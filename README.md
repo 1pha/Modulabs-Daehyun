@@ -1,4 +1,12 @@
 # SBA 조대현방 Github
+```bash
+# 맨 처음 사용할 때
+git clone https://github.com/1pha/Modulabs-Daehyun
+cd Modulabs-Daehyun
+
+# 다음에 또 사용할 때
+git pull origin master
+```
 ### 10월 둘째주
 #### 10.05(월) 9장 sklearn 복습
 `sklearn`은 앞으로 딥러닝, 머신러닝을 하시면서 빼놓을 수 없는 필수 모듈 중에 하나입니다. 노드에서 더 섬세히 다루지 못한 내용을 추가했으니 참고해주세요. 질문있으시면 언제든지 슬랙으로 보내주시구요. 고생 많으셨습니다 :)
