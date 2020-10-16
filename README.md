@@ -8,6 +8,12 @@ cd Modulabs-Daehyun
 git pull origin master
 ```
 ### 10월 셋째주
+#### 10.16(금) 13장 EDA 복습 2
+`pandas`에서 사용되는 메소드를 몇 가지 다시 살펴보았습니다.
++ `isnull` 사용하는 방법 + 정확히 무엇을 return하는가?
++ 유일한 값 찾기 - `set`, `unique` 사용하기
++ `loc` 사용하기
+  
 #### 10.15(목) 13장 EDA 복습
 `pandas`에서 자주 사용되는 메소드 몇 가지를 다시 살펴보았습니다.
 + `pandas`에서 특정 attribute 불러오는 방법
