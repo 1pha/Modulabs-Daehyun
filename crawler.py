@@ -79,6 +79,7 @@ def save_df(df, page_num, code, date):
 
 if __name__=="__main__":
 
+
     code_list = [101, 102, 103, 105]
     idx2word = {
         '101' : '경제',
@@ -87,7 +88,8 @@ if __name__=="__main__":
         '105' : 'IT/과학'
     }
 
-    page_num, code, date = args.page_num, list(map(int, args.code.split())), args.date
+    code = list(map(int, args.code.split())) if len(args.code) >= 3 else code_list
+    page_num, date = args.page_num, args.date
 
     df = make_total_data(page_num, code, date)
     save_df(df, page_num, code, date)
