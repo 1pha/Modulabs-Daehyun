@@ -7,6 +7,8 @@ cd Modulabs-Daehyun
 # 다음에 또 사용할 때
 git pull origin master
 ```
+### Lecture Videos
+수업시간에 간단하게 다루었던 내용들 녹화된 부분들만 올려놓았습니다. 참고하세요. [링크](https://drive.google.com/drive/folders/1Kq8cZWhE3QnwKgH4o6_UOeF5lvzy0CZj?usp=sharing)
 ### 10월 넷째주
 #### 10.21(수) 15장-5 Quiz 복습
 15-5는 직접 insight를 구해보는 실습예제 코드가 있었습니다. 쉬운 문제부터 생각보다 까다로운 문제가 있었는데 하나하나 같이 살펴보았습니다. 그 때 같이 다룬 .ipynb 올려놓았으니 확인해주세요.
